@@ -6,7 +6,7 @@
 <h3 align="center">Backend .NET Developer · Clean Architecture · REST APIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=512BD4&center=true&vCenter=true&width=560&lines=Building+scalable+ASP.NET+Core+backends;Clean+Architecture+%7C+EF+Core+%7C+REST+APIs;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Building+scalable+ASP.NET+Core+backends;Clean+Architecture+%7C+EF+Core+%7C+REST+APIs;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
