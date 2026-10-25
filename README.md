@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.gif" width="736" alt="Animated developer workspace banner" />
-</p>
-
 <h1 align="center">Hi, I'm Abdelrahman 👋</h1>
 <h3 align="center">Backend .NET Developer · Clean Architecture · REST APIs</h3>
 
@@ -13,19 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanYehiaGharib23&label=Profile+views&color=512BD4&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="assets/code-editor.svg" width="720" alt="Animated editor typing a C# Developer class" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
+
+<img align="right" width="280" src="assets/workspace.gif" alt="Developer workspace animation" />
 
 - 💼 Freelance .NET backend developer on **Upwork**
 - 🎓 B.Sc. in Computer Science — Higher Technological Institute (HTI), 2025
 - 📜 Back-end .NET Diploma — Route IT Training Center (Dec 2024)
 - 📍 Cairo, Egypt — open to remote work and relocation
 - 🎯 I focus on clean, maintainable backends: layered architecture, well-designed APIs, and solid data access
+
+<br clear="right" />
 
 ---
 
@@ -73,10 +69,12 @@
 
 ## 📫 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/abdelrahman-yehia-gharib-emam-ba88092a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/201229190448"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:AbdelrahmanYehiaGharib23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/abdelrahman-yehia-gharib-emam-ba88092a9/"><img src="assets/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a></td>
+    <td align="center"><a href="https://wa.me/201229190448"><img src="assets/whatsapp.svg" width="40" height="40" alt="WhatsApp" /></a></td>
+    <td align="center"><a href="mailto:AbdelrahmanYehiaGharib23@gmail.com"><img src="assets/gmail.svg" width="40" height="40" alt="Email" /></a></td>
+  </tr>
+</table>
 
 <p align="center"><i>Open to collaborating on interesting .NET projects and open source.</i></p>
