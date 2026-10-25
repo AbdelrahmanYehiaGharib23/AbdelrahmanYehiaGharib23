@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" width="736" alt="Animated developer workspace banner" />
+</p>
+
 <h1 align="center">Hi, I'm Abdelrahman 👋</h1>
 <h3 align="center">Backend .NET Developer · Clean Architecture · REST APIs</h3>
 
@@ -7,6 +11,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanYehiaGharib23&label=Profile+views&color=512BD4&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="assets/code-editor.svg" width="720" alt="Animated editor typing a C# Developer class" />
 </p>
 
 ---
